@@ -1,0 +1,9 @@
+.page-footer { padding: 100px 0; color: #f4f4fd; background-color: #2e2f42; }
+.footer-container { display: flex; align-items: baseline; }
+.footer-about { width: 264px; margin-right: 120px; }
+.footer-logo { margin-bottom: 16px; }
+.footer-logo span { color: #f4f4fd; }
+.footer-about p { line-height: 1.5; }
+.footer-social-title { margin-bottom: 16px; color: #fff; font-weight: 500; line-height: 1.5; }
+.footer-social .social-list { gap: 16px; }
+.footer-social .social-list a:hover, .footer-social .social-list a:focus { background-color: #31d0aa; }
